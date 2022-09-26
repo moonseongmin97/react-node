@@ -1,0 +1,7 @@
+{
+  "config": {
+    "user": "reactERP",
+    "password": "reactERP",
+    "connectString": "localhost:1528/xe"
+  }
+}
