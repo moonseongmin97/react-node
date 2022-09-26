@@ -2,7 +2,7 @@ const boardService = require("../service/boardService");
 const { delivery } = require("util/");
 
 let data;
-//글목록불러오기
+//글목록불러오기 (성민 깃허브 테스트)
 exports.boardList = async (request, response) => {
   try {
     data = {
